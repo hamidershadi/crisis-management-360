@@ -1,0 +1,8 @@
+{
+  "name": "Remix تور مجازی تعاملی مدیریت بحران",
+  "description": "شبیه‌ساز سه‌بعدی و داستان‌محور مدیریت بحران شهری با سه فضای پیوسته، آزمون‌های تعاملی درون‌محیط و انتقال خودکار",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
